@@ -22,3 +22,8 @@ The data was preprocessed using techniques such as text cleaning, tokenization, 
 The RandomForestClassifier and Decision Tree Classifier algorithms were trained on the preprocessed data to build the recommendation system. These algorithms were chosen for their ability to handle multi-class classification tasks.
 
 The final output of this project is a recommendation system that can predict the genre of a movie based on its synopsis.
+
+## App
+The GenreOracle app is a movie genre recommendation system that uses machine learning techniques to predict the genre of a movie based on its synopsis. The app takes in the synopsis of a movie as input and predicts its genre, providing users with a list of suggested movie titles based on the predicted genre. With the GenreOracle app, users can easily discover new movies based on their interests and preferences. The app is simple to use and provides accurate predictions, making it an essential tool for movie enthusiasts.
+
+![GenreOracle](/Images/Screenshot%202023-03-08%20at%208.15.25%20PM.png "Movie Poster")
