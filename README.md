@@ -1,6 +1,16 @@
 # Movie Genre Recommendation System using Machine Learning
 This is a data science capstone project aimed at building a movie genre recommendation system using machine learning techniques. The goal of the project is to recommend movie genres based on their synopsis.
 
+## Libraries
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F68E2F?style=for-the-badge&logo=Gradio&logoColor=white)
+![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+
 ## Problem Statement
 The aim of this project is to build a recommendation system that can predict the genre of a movie based on its synopsis. The system will use machine learning techniques to analyze the synopsis of a movie and predict its genre.
 
